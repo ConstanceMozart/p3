@@ -7,7 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		73187E2822E8AF3900CC29CB /* Characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73187E2722E8AF3900CC29CB /* Characters.swift */; };
+		73187E2A22E8AF4800CC29CB /* Gladiator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73187E2922E8AF4800CC29CB /* Gladiator.swift */; };
+		731B2E2C22CA120B00FC0F26 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 731B2E2B22CA120B00FC0F26 /* Player.swift */; };
+		731B2E2E22CA121900FC0F26 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 731B2E2D22CA121900FC0F26 /* Game.swift */; };
+		731B2E3022CA139300FC0F26 /* Chest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 731B2E2F22CA139300FC0F26 /* Chest.swift */; };
 		734DABF222B26EC2008FB204 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 734DABF122B26EC2008FB204 /* main.swift */; };
+		739BDE6622E9FE9400839A58 /* Viking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE6522E9FE9400839A58 /* Viking.swift */; };
+		739BDE6822E9FEAA00839A58 /* Samouraï.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE6722E9FEAA00839A58 /* Samouraï.swift */; };
+		739BDE6A22E9FEC000839A58 /* Knight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE6922E9FEC000839A58 /* Knight.swift */; };
+		739BDE6E22E9FF1600839A58 /* Robot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE6D22E9FF1600839A58 /* Robot.swift */; };
+		739BDE7122E9FFC600839A58 /* Sword.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE7022E9FFC600839A58 /* Sword.swift */; };
+		739BDE7322E9FFDB00839A58 /* Flail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE7222E9FFDB00839A58 /* Flail.swift */; };
+		739BDE7522E9FFF500839A58 /* Naginata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE7422E9FFF500839A58 /* Naginata.swift */; };
+		739BDE7722EA000F00839A58 /* MedievalAxe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE7622EA000F00839A58 /* MedievalAxe.swift */; };
+		739BDE7922EA002200839A58 /* Gun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE7822EA002100839A58 /* Gun.swift */; };
+		739BDE7B22EA003900839A58 /* LaserInEyes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE7A22EA003900839A58 /* LaserInEyes.swift */; };
+		739BDE7F22EA3BF600839A58 /* Military.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BDE7E22EA3BF600839A58 /* Military.swift */; };
+		73F4734F22C60DB50076409E /* Weapon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73F4734E22C60DB50076409E /* Weapon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +40,25 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		73187E2722E8AF3900CC29CB /* Characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Characters.swift; sourceTree = "<group>"; };
+		73187E2922E8AF4800CC29CB /* Gladiator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gladiator.swift; sourceTree = "<group>"; };
+		731B2E2B22CA120B00FC0F26 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		731B2E2D22CA121900FC0F26 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		731B2E2F22CA139300FC0F26 /* Chest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chest.swift; sourceTree = "<group>"; };
 		734DABEE22B26EC2008FB204 /* p3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = p3; sourceTree = BUILT_PRODUCTS_DIR; };
 		734DABF122B26EC2008FB204 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		739BDE6522E9FE9400839A58 /* Viking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Viking.swift; sourceTree = "<group>"; };
+		739BDE6722E9FEAA00839A58 /* Samouraï.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Samouraï.swift"; sourceTree = "<group>"; };
+		739BDE6922E9FEC000839A58 /* Knight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Knight.swift; sourceTree = "<group>"; };
+		739BDE6D22E9FF1600839A58 /* Robot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Robot.swift; sourceTree = "<group>"; };
+		739BDE7022E9FFC600839A58 /* Sword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sword.swift; sourceTree = "<group>"; };
+		739BDE7222E9FFDB00839A58 /* Flail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flail.swift; sourceTree = "<group>"; };
+		739BDE7422E9FFF500839A58 /* Naginata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Naginata.swift; sourceTree = "<group>"; };
+		739BDE7622EA000F00839A58 /* MedievalAxe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedievalAxe.swift; sourceTree = "<group>"; };
+		739BDE7822EA002100839A58 /* Gun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gun.swift; sourceTree = "<group>"; };
+		739BDE7A22EA003900839A58 /* LaserInEyes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaserInEyes.swift; sourceTree = "<group>"; };
+		739BDE7E22EA3BF600839A58 /* Military.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Military.swift; sourceTree = "<group>"; };
+		73F4734E22C60DB50076409E /* Weapon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weapon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +72,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		73187E2622E8AF3400CC29CB /* Characters */ = {
+			isa = PBXGroup;
+			children = (
+				73187E2722E8AF3900CC29CB /* Characters.swift */,
+				73187E2922E8AF4800CC29CB /* Gladiator.swift */,
+				739BDE6522E9FE9400839A58 /* Viking.swift */,
+				739BDE6722E9FEAA00839A58 /* Samouraï.swift */,
+				739BDE6922E9FEC000839A58 /* Knight.swift */,
+				739BDE7E22EA3BF600839A58 /* Military.swift */,
+				739BDE6D22E9FF1600839A58 /* Robot.swift */,
+			);
+			path = Characters;
+			sourceTree = "<group>";
+		};
 		734DABE522B26EC1008FB204 = {
 			isa = PBXGroup;
 			children = (
@@ -58,8 +106,27 @@
 			isa = PBXGroup;
 			children = (
 				734DABF122B26EC2008FB204 /* main.swift */,
+				731B2E2D22CA121900FC0F26 /* Game.swift */,
+				731B2E2B22CA120B00FC0F26 /* Player.swift */,
+				73187E2622E8AF3400CC29CB /* Characters */,
+				739BDE6F22E9FFA300839A58 /* Weapon */,
+				731B2E2F22CA139300FC0F26 /* Chest.swift */,
 			);
 			path = p3;
+			sourceTree = "<group>";
+		};
+		739BDE6F22E9FFA300839A58 /* Weapon */ = {
+			isa = PBXGroup;
+			children = (
+				73F4734E22C60DB50076409E /* Weapon.swift */,
+				739BDE7022E9FFC600839A58 /* Sword.swift */,
+				739BDE7222E9FFDB00839A58 /* Flail.swift */,
+				739BDE7422E9FFF500839A58 /* Naginata.swift */,
+				739BDE7622EA000F00839A58 /* MedievalAxe.swift */,
+				739BDE7822EA002100839A58 /* Gun.swift */,
+				739BDE7A22EA003900839A58 /* LaserInEyes.swift */,
+			);
+			path = Weapon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -103,6 +170,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 734DABE522B26EC1008FB204;
 			productRefGroup = 734DABEF22B26EC2008FB204 /* Products */;
@@ -119,7 +187,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				739BDE7B22EA003900839A58 /* LaserInEyes.swift in Sources */,
+				73F4734F22C60DB50076409E /* Weapon.swift in Sources */,
+				739BDE7722EA000F00839A58 /* MedievalAxe.swift in Sources */,
+				73187E2822E8AF3900CC29CB /* Characters.swift in Sources */,
+				731B2E2C22CA120B00FC0F26 /* Player.swift in Sources */,
+				731B2E2E22CA121900FC0F26 /* Game.swift in Sources */,
+				739BDE7922EA002200839A58 /* Gun.swift in Sources */,
+				739BDE6E22E9FF1600839A58 /* Robot.swift in Sources */,
+				739BDE7522E9FFF500839A58 /* Naginata.swift in Sources */,
+				739BDE6A22E9FEC000839A58 /* Knight.swift in Sources */,
+				731B2E3022CA139300FC0F26 /* Chest.swift in Sources */,
+				73187E2A22E8AF4800CC29CB /* Gladiator.swift in Sources */,
 				734DABF222B26EC2008FB204 /* main.swift in Sources */,
+				739BDE6622E9FE9400839A58 /* Viking.swift in Sources */,
+				739BDE7122E9FFC600839A58 /* Sword.swift in Sources */,
+				739BDE7322E9FFDB00839A58 /* Flail.swift in Sources */,
+				739BDE7F22EA3BF600839A58 /* Military.swift in Sources */,
+				739BDE6822E9FEAA00839A58 /* Samouraï.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,6 +330,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 68P6W828BZ;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -254,6 +340,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 68P6W828BZ;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
